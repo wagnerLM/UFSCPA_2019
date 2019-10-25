@@ -1,2 +1,2 @@
 # UFSCPA_2019
-# Script da oficina em modelos multicausais em saúde
+# Script da oficina em abordagens multicausais em saúde
